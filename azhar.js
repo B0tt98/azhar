@@ -216,7 +216,7 @@ const net = require("net");
 ╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
 by AZHAR KH4N
 
-node DDOS <target> <duration> <request per second> <threads> <proxyfile>`));; process.exit();}
+node azhar <target> <duration> <request per second> <threads> <proxyfile>`));; process.exit();}
  const headers = {};
   function readLines(filePath) {
      return fs.readFileSync(filePath, "utf-8").toString().split(/\r?\n/);
